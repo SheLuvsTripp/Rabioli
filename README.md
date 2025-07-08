@@ -1,7 +1,3 @@
-# Rabioli
-Rabioli discord bot
-
-
 # TERMS OF SERVICE
 1. Acceptance of Terms
 By adding Rabioli to your server or using its commands, you confirm that you are 13 years of age or older and agree to these Terms.
