@@ -1,79 +1,137 @@
 # TERMS OF SERVICE
-1. Acceptance of Terms
-By adding Rabioli to your server or using its commands, you confirm that you are 13 years of age or older and agree to these Terms.
 
-2. Features & Functionality
-Rabioli offers:
-- Moderation tools (kick, ban, warn, purge)
-- Role automation
-- Event logging
-- Customizable prefix and permissions
-Experimental features (testing phase)
-Bot features may change or be updated at any time without prior notice.
+🍝 Rabioli Terms of Service
 
-3. Permissions Required
-To function properly, Rabioli may request:
-Manage Roles
-Manage Channels
-Kick/Ban Members
-It is your responsibility to assign permissions carefully. Misuse of permissions is not the responsibility of the bot developers.
+Last Updated: July 7, 2025
 
-4. Data Usage
-Rabioli does not store message content. It may temporarily log:
-Server and channel IDs
-User IDs for moderation logs
-Command usage data (for debugging and analytics)
-All data collected is used internally for bot improvement and is never sold or shared.
+By inviting Rabioli to your server or using its commands, you agree to the following terms:
+🔞 Age Requirement
 
-5. Prohibited Use
-You may not:
-Use Rabioli for illegal, exploitative, or malicious purposes
-Attempt to reverse-engineer or redistribute the bot
-Mislead users about its origin or features
-Servers violating Discord’s ToS will be automatically blacklisted.
+You must be 13 years or older to use Rabioli in compliance with Discord’s Terms of Service.
+🧩 Features
 
-6. Liability
-Rabioli’s developers are not responsible for any misuse, data loss, or moderation actions executed using the bot. You use it at your own discretion.
+Rabioli offers a range of features, including:
 
-7. Termination
-We reserve the right to terminate your access to Rabioli at any time for any reason, including suspected abuse or ToS violations.
+    Moderation tools (kick, ban, warn, purge)
+
+    Role and channel management
+
+    Event logging
+
+    Customizable prefix and permissions
+
+    Music and entertainment
+
+    Experimental features (subject to change)
+
+We may update, change, or remove features at any time without prior notice.
+🛡️ Permissions
+
+To function properly, Rabioli may require the following permissions:
+
+    Manage Roles
+
+    Manage Channels
+
+    Kick/Ban Members
+
+It’s your responsibility to assign permissions appropriately. The developers are not liable for any misuse due to misconfigured permissions.
+🔐 Data Usage
+
+Rabioli does NOT store message content. It may temporarily collect:
+
+    Server & Channel IDs
+
+    User IDs (for moderation logs)
+
+    Command usage (for analytics and debugging)
+
+All collected data is used internally only for improving the bot. Nothing is ever sold, shared, or disclosed.
+🚫 Prohibited Use
+
+You may NOT:
+
+    Use the bot for illegal, harmful, or exploitative actions
+
+    Attempt to reverse-engineer or re-host the bot
+
+    Mislead others about the bot’s origin or functionality
+
+Servers violating Discord’s ToS may be blacklisted without warning.
+⚠️ Disclaimer
+
+Rabioli is provided as-is. The developers are not responsible for:
+
+    Data loss
+
+    Misuse of moderation commands
+
+    Server misconfigurations
+
+Use the bot at your own risk.
+❌ Termination
+
+We reserve the right to remove Rabioli from your server or restrict access at any time, especially in cases of abuse or ToS violations.
 
 # PRIVACY POLICES
 
-Rabioli Bot – Privacy Policy
+🔒 Rabioli Privacy Policy
+
 Effective Date: July 7, 2025
 
-This Privacy Policy outlines how Rabioli Bot ("the Bot", "we", "our") collects, uses, and protects information while operating on Discord servers.
+This Privacy Policy explains how Rabioli collects and uses data while operating on Discord.
+📋 What We Collect
 
-1. Information We Collect
-Rabioli only collects non-sensitive, minimal data required to operate its features:
-Server IDs and Channel IDs
-User IDs (for moderation commands)
-Command usage logs (e.g. command name, timestamp)
-Bot configuration settings (prefix, role restrictions, etc.)
-No message content, IP addresses, or personal information are collected.
+We only collect the bare minimum needed to run the bot:
 
-2. How We Use the Data
-Collected data is used exclusively for:
-Executing bot commands properly
-Logging moderation actions (e.g. kick, ban, warn)
-Diagnosing bugs or performance issues
-Improving features through internal analytics
-Data is never sold, shared, or disclosed to third parties.
+    Server & Channel IDs
 
-3. Data Storage
-Data is stored temporarily in-memory or in secure databases with limited access.
-Logs are cleared periodically and are not linked to personal identities.
-If the bot is removed from a server, all associated data is deleted automatically.
+    User IDs (used for moderation actions)
 
-4. User Rights
-You have the right to:
-Remove the bot at any time from your server
-Request deletion of stored data related to your server
-Contact us regarding any data-related concerns
+    Command usage logs (e.g., command name and timestamp)
 
-5. Security
-We take data privacy seriously. All access to bot data is restricted, and our systems are monitored for unauthorized activity.
+    Server-specific settings (prefix, permissions, etc.)
 
-6. Changes to This Policy
-This Privacy Policy may be updated without notice. Your continued use of the Bot signifies your acceptance of the most recent version.
+We do NOT collect:
+
+    Message content
+
+    IP addresses
+
+    Personally identifiable information
+
+🛠️ How We Use Data
+
+Collected data is used strictly for:
+
+    Running bot commands
+
+    Logging moderation actions (e.g., bans, kicks)
+
+    Debugging and improving performance
+
+We never sell, share, or disclose your data.
+🗄️ Data Storage
+
+    Data is stored temporarily in-memory or securely in databases with restricted access.
+
+    Logs are cleared regularly and are not tied to user identities.
+
+    If the bot is removed from your server, your server’s data is automatically deleted.
+
+👤 Your Rights
+
+You may:
+
+    Remove the bot from your server at any time
+
+    Request deletion of any stored data related to your server
+
+    Contact us with any privacy concerns
+
+🔐 Security
+
+We prioritize your data’s safety. All data access is restricted, and our systems are monitored to prevent unauthorized access.
+🔁 Changes
+
+This policy may be updated at any time. Continued use of the bot means you accept the latest version.
