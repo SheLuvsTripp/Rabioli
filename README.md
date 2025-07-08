@@ -12,61 +12,61 @@ You must be 13 years or older to use Rabioli in compliance with Discord’s Term
 
 Rabioli offers a range of features, including:
 
-    Moderation tools (kick, ban, warn, purge)
+ -   Moderation tools (kick, ban, warn, purge)
 
-    Role and channel management
+ -   Role and channel management
 
-    Event logging
+ -   Event logging
 
-    Customizable prefix and permissions
+ -   Customizable prefix and permissions
 
-    Music and entertainment
+-    Music and entertainment
 
-    Experimental features (subject to change)
+ -   Experimental features (subject to change)
 
 We may update, change, or remove features at any time without prior notice.
 🛡️ Permissions
 
 To function properly, Rabioli may require the following permissions:
 
-    Manage Roles
+  -  Manage Roles
 
-    Manage Channels
+  -  Manage Channels
 
-    Kick/Ban Members
+  -  Kick/Ban Members
 
 It’s your responsibility to assign permissions appropriately. The developers are not liable for any misuse due to misconfigured permissions.
 🔐 Data Usage
 
 Rabioli does NOT store message content. It may temporarily collect:
 
-    Server & Channel IDs
+ -   Server & Channel IDs
 
-    User IDs (for moderation logs)
+ -   User IDs (for moderation logs)
 
-    Command usage (for analytics and debugging)
+ -   Command usage (for analytics and debugging)
 
 All collected data is used internally only for improving the bot. Nothing is ever sold, shared, or disclosed.
 🚫 Prohibited Use
 
 You may NOT:
 
-    Use the bot for illegal, harmful, or exploitative actions
+  -  Use the bot for illegal, harmful, or exploitative actions
 
-    Attempt to reverse-engineer or re-host the bot
+  -  Attempt to reverse-engineer or re-host the bot
 
-    Mislead others about the bot’s origin or functionality
+  - Mislead others about the bot’s origin or functionality
 
 Servers violating Discord’s ToS may be blacklisted without warning.
 ⚠️ Disclaimer
 
 Rabioli is provided as-is. The developers are not responsible for:
 
-    Data loss
+  -  Data loss
 
-    Misuse of moderation commands
+ -   Misuse of moderation commands
 
-    Server misconfigurations
+  -  Server misconfigurations
 
 Use the bot at your own risk.
 ❌ Termination
@@ -84,50 +84,47 @@ This Privacy Policy explains how Rabioli collects and uses data while operating 
 
 We only collect the bare minimum needed to run the bot:
 
-    Server & Channel IDs
-
-    User IDs (used for moderation actions)
-
-    Command usage logs (e.g., command name and timestamp)
-
-    Server-specific settings (prefix, permissions, etc.)
+   - Server & Channel IDs
+   - User IDs (used for moderation actions)
+   - Command usage logs (e.g., command name and timestamp)
+   - Server-specific settings (prefix, permissions, etc.)
 
 We do NOT collect:
 
-    Message content
+  -  Message content
 
-    IP addresses
+  -  IP addresses
 
-    Personally identifiable information
+  -  Personally identifiable information
 
 🛠️ How We Use Data
 
 Collected data is used strictly for:
 
-    Running bot commands
+  -  Running bot commands
 
-    Logging moderation actions (e.g., bans, kicks)
+  -  Logging moderation actions (e.g., bans, kicks)
 
-    Debugging and improving performance
+  -  Debugging and improving performance
 
 We never sell, share, or disclose your data.
 🗄️ Data Storage
 
-    Data is stored temporarily in-memory or securely in databases with restricted access.
+-    Data is stored temporarily in-memory or securely in databases with restricted access.
 
-    Logs are cleared regularly and are not tied to user identities.
+-    Logs are cleared regularly and are not tied to user identities.
 
-    If the bot is removed from your server, your server’s data is automatically deleted.
+ -   If the bot is removed from your server, your server’s data is automatically deleted.
 
 👤 Your Rights
 
 You may:
 
-    Remove the bot from your server at any time
+  -  Remove the bot from your server at any time
 
-    Request deletion of any stored data related to your server
+ -  Request deletion of any stored data related to your server
 
-    Contact us with any privacy concerns
+  -  Contact us with any privacy concerns
 
 🔐 Security
 
